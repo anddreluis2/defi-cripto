@@ -1,11 +1,11 @@
-import { useState } from 'react'
+import { Tittle } from "./components/Tittle"
 
 function App() {
 
   return (
-    <div>
-      <h1>SALVE</h1>
-    </div>
+    <>
+      <Tittle />
+    </>
   )
 }
 

@@ -1,6 +1,6 @@
-import { Container } from './styles'
+import { Container } from './styles';
 
-export function Tittle() {
+export function Title() {
     return (
         <>
             <Container>

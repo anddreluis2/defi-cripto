@@ -1,10 +1,10 @@
-import { Tittle } from "./components/Tittle"
+import { Title } from "./components/Title"
 
 function App() {
 
   return (
     <>
-      <Tittle />
+      <Title />
     </>
   )
 }
